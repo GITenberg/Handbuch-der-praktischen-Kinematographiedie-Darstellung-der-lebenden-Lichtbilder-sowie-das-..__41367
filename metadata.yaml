@@ -1,0 +1,33 @@
+_repo: Handbuch-der-praktischen-Kinematographiedie-Darstellung-der-lebenden-Lichtbilder-sowie-das-..__41367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Liesegang, Franz Paul
+    aliases:
+    - Liesegang, Friedrich Paul
+    - Liesegang, F. Paul (Franz Paul)
+    - Liesegang, Paul
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '41142'
+    url: http://www.gutenberg.org/2009/agents/41142
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41367'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion picture industry'
+- !lcc 'TR'
+- !lcsh 'Cinematography -- Handbooks, manuals, etc.'
+title: "Handbuch der praktischen Kinematographie\r\nDie verschiedenen Konstruktions-Formen\
+  \ des Kinematographen, die Darstellung der lebenden Lichtbilder sowie das ..."
+url: http://www.gutenberg.org/ebooks/41367
